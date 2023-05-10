@@ -1,0 +1,12 @@
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Core\bin\Debug\net6.0\Amazon.Core.deps.json
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Core\bin\Debug\net6.0\Amazon.Core.dll
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Core\bin\Debug\net6.0\Amazon.Core.pdb
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Core\obj\Debug\net6.0\Amazon.Core.csproj.AssemblyReference.cache
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Core\obj\Debug\net6.0\Amazon.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Core\obj\Debug\net6.0\Amazon.Core.AssemblyInfoInputs.cache
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Core\obj\Debug\net6.0\Amazon.Core.AssemblyInfo.cs
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Core\obj\Debug\net6.0\Amazon.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Core\obj\Debug\net6.0\Amazon.Core.dll
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Core\obj\Debug\net6.0\refint\Amazon.Core.dll
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Core\obj\Debug\net6.0\Amazon.Core.pdb
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Core\obj\Debug\net6.0\ref\Amazon.Core.dll

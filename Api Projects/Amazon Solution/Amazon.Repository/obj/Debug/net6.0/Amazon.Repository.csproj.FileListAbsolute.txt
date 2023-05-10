@@ -1,0 +1,15 @@
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\bin\Debug\net6.0\Amazon.Repository.deps.json
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\bin\Debug\net6.0\Amazon.Repository.dll
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\bin\Debug\net6.0\Amazon.Repository.pdb
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\bin\Debug\net6.0\Amazon.Core.dll
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\bin\Debug\net6.0\Amazon.Core.pdb
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\obj\Debug\net6.0\Amazon.Repository.csproj.AssemblyReference.cache
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\obj\Debug\net6.0\Amazon.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\obj\Debug\net6.0\Amazon.Repository.AssemblyInfoInputs.cache
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\obj\Debug\net6.0\Amazon.Repository.AssemblyInfo.cs
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\obj\Debug\net6.0\Amazon.Repository.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\obj\Debug\net6.0\Amazon.Repository.csproj.CopyComplete
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\obj\Debug\net6.0\Amazon.Repository.dll
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\obj\Debug\net6.0\refint\Amazon.Repository.dll
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\obj\Debug\net6.0\Amazon.Repository.pdb
+D:\Projects\Dot Net\Api\Amazon Solution\Amazon.Repository\obj\Debug\net6.0\ref\Amazon.Repository.dll

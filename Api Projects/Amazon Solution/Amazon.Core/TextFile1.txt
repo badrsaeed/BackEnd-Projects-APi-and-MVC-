@@ -1,0 +1,17 @@
+﻿This is Core Layer Which include The All project without any implementations
+has 3 floders
+
+	1- Entities Folder that store All Domain Objects for the project and has this Domain
+		-- BaseEntity Class this is the common Model which contain the commen property
+			in all Modles like Id and does not have representaion in DB
+
+		-- Product represent product Table in DB inhirit from BaseEntity Class and has many Property like
+			(Id, Name, Description, PictureUrl, Price, Nav property for ProductBrand Model,
+			nav property for ProductType Model) , has relation with ProductType Model 1 => M
+			and relation with ProductBrand Model 1 => M
+
+		-- ProductBrand represent productBrand Table in DB inhirit from BaseEntity Class and has many Property like
+			(Id, Name) 
+
+		-- ProductType represent productType Table in DB inhirit from BaseEntity Class and has many Property like
+			(Id, Name) 
