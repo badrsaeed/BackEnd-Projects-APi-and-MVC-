@@ -1,3 +1,9 @@
+using Microsoft.EntityFrameworkCore;
+using MovieStore.BAL.Interfaces;
+using MovieStore.BAL.Repositories;
+using MovieStore.DAL.Context;
+
+
 namespace MovieStore
 {
     public class Program
@@ -6,10 +12,23 @@ namespace MovieStore
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            #region Add services to the container.
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            //Add DbContext Service To Container
+            builder.Services.AddDbContext<MovieStoreDbContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+            });
+
+            // Register a unitOfWork Service
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+            #endregion
+
             var app = builder.Build();
+
+            #region Configure the HTTP request pipeline.
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -30,6 +49,7 @@ namespace MovieStore
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
+            #endregion
             app.Run();
         }
     }
