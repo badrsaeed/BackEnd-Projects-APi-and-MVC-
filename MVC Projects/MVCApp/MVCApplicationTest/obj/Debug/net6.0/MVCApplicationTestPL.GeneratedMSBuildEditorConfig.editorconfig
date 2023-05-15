@@ -1,0 +1,181 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVCApplicationTestPL
+build_property.RootNamespace = MVCApplicationTestPL
+build_property.ProjectDir = D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Account/CheckYourInbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGVja1lvdXJJbmJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Account/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Department/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Department/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Department/PartialViews/CreateEditDepartmentPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxQYXJ0aWFsVmlld3NcQ3JlYXRlRWRpdERlcGFydG1lbnRQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Department/PartialViews/DeleteDetailsDepartmentPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxQYXJ0aWFsVmlld3NcRGVsZXRlRGV0YWlsc0RlcGFydG1lbnRQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Employee/PartialViews/CreateEditEmployeePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcUGFydGlhbFZpZXdzXENyZWF0ZUVkaXRFbXBsb3llZVBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Employee/PartialViews/DeleteDetailsEmployeePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcUGFydGlhbFZpZXdzXERlbGV0ZURldGFpbHNFbXBsb3llZVBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Role/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Role/PartialViews/CreateEditRolePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxQYXJ0aWFsVmlld3NcQ3JlYXRlRWRpdFJvbGVQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Role/PartialViews/DeleteDetailsRolePartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxQYXJ0aWFsVmlld3NcRGVsZXRlRGV0YWlsc1JvbGVQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Shared/_BtnView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CdG5WaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/User/PartialViews/CreateEditUserPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQYXJ0aWFsVmlld3NcQ3JlYXRlRWRpdFVzZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/User/PartialViews/DeleteDetailsUserPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQYXJ0aWFsVmlld3NcRGVsZXRlRGV0YWlsc1VzZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Dot Net/BackEnd-Projects-APi-and-MVC-/MVC Projects/MVCApp/MVCApplicationTest/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

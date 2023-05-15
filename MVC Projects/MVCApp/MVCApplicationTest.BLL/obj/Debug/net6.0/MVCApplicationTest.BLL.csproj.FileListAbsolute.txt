@@ -1,0 +1,30 @@
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net6.0\MVCApplicationTest.BLL.deps.json
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net6.0\MVCApplicationTest.BLL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net6.0\MVCApplicationTest.BLL.pdb
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net6.0\MVCApplicationTest.DAL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net6.0\MVCApplicationTest.DAL.pdb
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.csproj.AssemblyReference.cache
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.AssemblyInfoInputs.cache
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.AssemblyInfo.cs
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.csproj.CoreCompileInputs.cache
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.csproj.CopyComplete
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net6.0\refint\MVCApplicationTest.BLL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.pdb
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net6.0\ref\MVCApplicationTest.BLL.dll
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\bin\Debug\net6.0\MVCApplicationTest.BLL.deps.json
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\bin\Debug\net6.0\MVCApplicationTest.BLL.dll
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\bin\Debug\net6.0\MVCApplicationTest.BLL.pdb
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\bin\Debug\net6.0\MVCApplicationTest.DAL.dll
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\bin\Debug\net6.0\MVCApplicationTest.DAL.pdb
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.csproj.AssemblyReference.cache
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.AssemblyInfoInputs.cache
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.AssemblyInfo.cs
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.csproj.CopyComplete
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.dll
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\obj\Debug\net6.0\refint\MVCApplicationTest.BLL.dll
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\obj\Debug\net6.0\MVCApplicationTest.BLL.pdb
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.BLL\obj\Debug\net6.0\ref\MVCApplicationTest.BLL.dll

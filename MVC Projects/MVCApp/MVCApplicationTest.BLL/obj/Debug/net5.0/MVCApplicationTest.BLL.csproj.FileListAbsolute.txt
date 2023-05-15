@@ -1,0 +1,75 @@
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.deps.json
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.dll
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.pdb
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.DAL.dll
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.DAL.pdb
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.AssemblyReference.cache
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.AssemblyInfoInputs.cache
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.AssemblyInfo.cs
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.CoreCompileInputs.cache
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.CopyComplete
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.dll
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\refint\MVCApplicationTest.BLL.dll
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.pdb
+D:\Courses\MVC Course by Christein\my demo\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\ref\MVCApplicationTest.BLL.dll
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.deps.json
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.dll
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.pdb
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.DAL.dll
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.DAL.pdb
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.AssemblyReference.cache
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.AssemblyInfoInputs.cache
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.AssemblyInfo.cs
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.CoreCompileInputs.cache
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.CopyComplete
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.dll
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\refint\MVCApplicationTest.BLL.dll
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.pdb
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 03\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\ref\MVCApplicationTest.BLL.dll
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.deps.json
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.dll
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.pdb
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.DAL.dll
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.DAL.pdb
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.AssemblyReference.cache
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.AssemblyInfoInputs.cache
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.AssemblyInfo.cs
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.CoreCompileInputs.cache
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.CopyComplete
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.dll
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\refint\MVCApplicationTest.BLL.dll
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.pdb
+D:\ASP .Net Route\07 ASP.NET Core MVC\Session 04\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\ref\MVCApplicationTest.BLL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.deps.json
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.pdb
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.DAL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.DAL.pdb
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.AssemblyReference.cache
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.AssemblyInfoInputs.cache
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.AssemblyInfo.cs
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.CoreCompileInputs.cache
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.CopyComplete
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\refint\MVCApplicationTest.BLL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.pdb
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 05\Assignments\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\ref\MVCApplicationTest.BLL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.deps.json
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.BLL.pdb
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.DAL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\bin\Debug\net5.0\MVCApplicationTest.DAL.pdb
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.AssemblyReference.cache
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.AssemblyInfoInputs.cache
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.AssemblyInfo.cs
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.CoreCompileInputs.cache
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.csproj.CopyComplete
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\refint\MVCApplicationTest.BLL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\MVCApplicationTest.BLL.pdb
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.BLL\obj\Debug\net5.0\ref\MVCApplicationTest.BLL.dll

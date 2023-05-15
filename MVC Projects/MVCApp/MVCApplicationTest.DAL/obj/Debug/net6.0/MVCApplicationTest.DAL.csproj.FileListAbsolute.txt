@@ -1,0 +1,24 @@
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.DAL\bin\Debug\net6.0\MVCApplicationTest.DAL.deps.json
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.DAL\bin\Debug\net6.0\MVCApplicationTest.DAL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.DAL\bin\Debug\net6.0\MVCApplicationTest.DAL.pdb
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.DAL\obj\Debug\net6.0\MVCApplicationTest.DAL.csproj.AssemblyReference.cache
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.DAL\obj\Debug\net6.0\MVCApplicationTest.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.DAL\obj\Debug\net6.0\MVCApplicationTest.DAL.AssemblyInfoInputs.cache
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.DAL\obj\Debug\net6.0\MVCApplicationTest.DAL.AssemblyInfo.cs
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.DAL\obj\Debug\net6.0\MVCApplicationTest.DAL.csproj.CoreCompileInputs.cache
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.DAL\obj\Debug\net6.0\MVCApplicationTest.DAL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.DAL\obj\Debug\net6.0\refint\MVCApplicationTest.DAL.dll
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.DAL\obj\Debug\net6.0\MVCApplicationTest.DAL.pdb
+D:\Route\ASP .Net Route\07 ASP.NET Core MVC\Session 06\Assignements\MVCApplicationTest Solution\MVCApplicationTest.DAL\obj\Debug\net6.0\ref\MVCApplicationTest.DAL.dll
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.DAL\bin\Debug\net6.0\MVCApplicationTest.DAL.deps.json
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.DAL\bin\Debug\net6.0\MVCApplicationTest.DAL.dll
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.DAL\bin\Debug\net6.0\MVCApplicationTest.DAL.pdb
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.DAL\obj\Debug\net6.0\MVCApplicationTest.DAL.csproj.AssemblyReference.cache
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.DAL\obj\Debug\net6.0\MVCApplicationTest.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.DAL\obj\Debug\net6.0\MVCApplicationTest.DAL.AssemblyInfoInputs.cache
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.DAL\obj\Debug\net6.0\MVCApplicationTest.DAL.AssemblyInfo.cs
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.DAL\obj\Debug\net6.0\MVCApplicationTest.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.DAL\obj\Debug\net6.0\MVCApplicationTest.DAL.dll
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.DAL\obj\Debug\net6.0\refint\MVCApplicationTest.DAL.dll
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.DAL\obj\Debug\net6.0\MVCApplicationTest.DAL.pdb
+D:\Projects\Dot Net\BackEnd-Projects-APi-and-MVC-\MVC Projects\MVCApp\MVCApplicationTest.DAL\obj\Debug\net6.0\ref\MVCApplicationTest.DAL.dll
