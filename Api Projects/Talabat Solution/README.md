@@ -1,4 +1,4 @@
-# Amazon E-commerce RESTful API
+# Talabat E-commerce RESTful API
 
 This project is a RESTful API for an e-commerce platform. The API is built using .NET Core and follows the principles of Onion Architecture. The project also utilizes Dependency Injection and Repository pattern.
 
