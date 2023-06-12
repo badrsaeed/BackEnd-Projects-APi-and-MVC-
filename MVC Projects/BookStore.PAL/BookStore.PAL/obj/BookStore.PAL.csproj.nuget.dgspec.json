@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.PAL\\BookStore.PAL.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.BAL\\BookStore.BAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.BAL\\BookStore.BAL.csproj",
+        "projectName": "BookStore.BAL",
+        "projectPath": "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.BAL\\BookStore.BAL.csproj",
+        "packagesPath": "C:\\Users\\c.city\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.BAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\c.city\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.DAL\\BookStore.DAL.csproj": {
+                "projectPath": "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.DAL\\BookStore.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.DAL\\BookStore.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.DAL\\BookStore.DAL.csproj",
+        "projectName": "BookStore.DAL",
+        "projectPath": "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.DAL\\BookStore.DAL.csproj",
+        "packagesPath": "C:\\Users\\c.city\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\c.city\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.PAL\\BookStore.PAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.PAL\\BookStore.PAL.csproj",
+        "projectName": "BookStore.PAL",
+        "projectPath": "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.PAL\\BookStore.PAL.csproj",
+        "packagesPath": "C:\\Users\\c.city\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.PAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\c.city\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.BAL\\BookStore.BAL.csproj": {
+                "projectPath": "D:\\Projects\\Dot Net\\BackEnd-Projects-APi-and-MVC-\\MVC Projects\\BookStore.PAL\\BookStore.BAL\\BookStore.BAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
