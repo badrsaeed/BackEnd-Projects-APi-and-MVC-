@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AhIy1yodJgazxY86CVli2td56Oci/n/qZWNxd09Z412+P1ROXkgaa+MwgecrEHr7xwz/MqnMnHFB8pTiVRUtRA==",
+  "dgSpecHash": "RNSfDA1irv8ozu8wvEyREjrfoxKvZIzYvMiN1qSifDYkuGXwK4FDBLg1q0Snctz4XuaAd4D8zhs8OTCI1/xNyg==",
   "success": true,
-  "projectFilePath": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 05\\Assignments\\Talabat Solution\\Talabat.Core\\Talabat.Core.csproj",
+  "projectFilePath": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 06\\Assignments\\Talabat Solution\\Talabat.Core\\Talabat.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c.city\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.16\\microsoft.aspnetcore.cryptography.internal.6.0.16.nupkg.sha512",
     "C:\\Users\\c.city\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.16\\microsoft.aspnetcore.cryptography.keyderivation.6.0.16.nupkg.sha512",

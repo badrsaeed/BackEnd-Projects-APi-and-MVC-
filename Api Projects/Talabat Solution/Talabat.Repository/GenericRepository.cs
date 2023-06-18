@@ -34,7 +34,7 @@ namespace Talabat.Repository
         public async Task<IReadOnlyList<T>> GetAllWithSpecAsync(ISpecification<T> spec)
             => await ApplayGetQuery(spec).ToListAsync();
 
-        public async Task<T> GetByIdWithSpecAsync(ISpecification<T> spec)
+        public async Task<T> GetEntityWithSpecAsync(ISpecification<T> spec)
             => await ApplayGetQuery(spec).FirstOrDefaultAsync();
 
         //Get count of All [product that apply specific filteration]
