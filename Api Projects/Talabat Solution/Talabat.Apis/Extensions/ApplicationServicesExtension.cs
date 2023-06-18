@@ -4,6 +4,9 @@ using Talabat.Core.Repositories;
 using Talabat.Repository.Data;
 using Talabat.Repository;
 using Talabat.Apis.Errors;
+using Talabat.Core;
+using Talabat.Core.Services;
+using Talabat.Service;
 
 namespace Talabat.Apis.Extensions
 {
@@ -11,10 +14,12 @@ namespace Talabat.Apis.Extensions
     {
         public static IServiceCollection AddApplictionServices(this IServiceCollection services)
         {
-           
 
+            services.AddScoped<IPaymentService, PaymentService>();
+            services.AddScoped<IOrderSeervice, OrderService>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             //Add DP for IGenericRepository to ask clr return obj from GenericRepositoty class
-            services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            //services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
             //Register the AutoMaaper Service
             services.AddAutoMapper(typeof(MappingProfile));

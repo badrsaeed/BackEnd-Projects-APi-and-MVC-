@@ -15,5 +15,9 @@ namespace Talabat.Core.Repositories
         Task<IReadOnlyList<T>> GetAllWithSpecAsync(ISpecification<T> spec);
         Task<T> GetByIdWithSpecAsync(ISpecification<T> sepc);
         Task<int> GetCountWitheSpecAsync(ISpecification<T> spec);
+
+        Task Add(T entity);
+        void Update(T entity);
+        void Delete(T entity);
     }
 }

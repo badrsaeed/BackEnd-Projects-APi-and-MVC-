@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 04\\Assignments\\Talabat Solution\\Talabat.Repository\\Talabat.Repository.csproj": {}
+    "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 05\\Assignments\\Talabat Solution\\Talabat.Repository\\Talabat.Repository.csproj": {}
   },
   "projects": {
-    "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 04\\Assignments\\Talabat Solution\\Talabat.Core\\Talabat.Core.csproj": {
+    "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 05\\Assignments\\Talabat Solution\\Talabat.Core\\Talabat.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 04\\Assignments\\Talabat Solution\\Talabat.Core\\Talabat.Core.csproj",
+        "projectUniqueName": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 05\\Assignments\\Talabat Solution\\Talabat.Core\\Talabat.Core.csproj",
         "projectName": "Talabat.Core",
-        "projectPath": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 04\\Assignments\\Talabat Solution\\Talabat.Core\\Talabat.Core.csproj",
+        "projectPath": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 05\\Assignments\\Talabat Solution\\Talabat.Core\\Talabat.Core.csproj",
         "packagesPath": "C:\\Users\\c.city\\.nuget\\packages\\",
-        "outputPath": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 04\\Assignments\\Talabat Solution\\Talabat.Core\\obj\\",
+        "outputPath": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 05\\Assignments\\Talabat Solution\\Talabat.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\c.city\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,6 +47,10 @@
             "StackExchange.Redis": {
               "target": "Package",
               "version": "[2.6.111, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[41.20.0, )"
             }
           },
           "imports": [
@@ -69,14 +73,14 @@
         }
       }
     },
-    "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 04\\Assignments\\Talabat Solution\\Talabat.Repository\\Talabat.Repository.csproj": {
+    "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 05\\Assignments\\Talabat Solution\\Talabat.Repository\\Talabat.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 04\\Assignments\\Talabat Solution\\Talabat.Repository\\Talabat.Repository.csproj",
+        "projectUniqueName": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 05\\Assignments\\Talabat Solution\\Talabat.Repository\\Talabat.Repository.csproj",
         "projectName": "Talabat.Repository",
-        "projectPath": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 04\\Assignments\\Talabat Solution\\Talabat.Repository\\Talabat.Repository.csproj",
+        "projectPath": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 05\\Assignments\\Talabat Solution\\Talabat.Repository\\Talabat.Repository.csproj",
         "packagesPath": "C:\\Users\\c.city\\.nuget\\packages\\",
-        "outputPath": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 04\\Assignments\\Talabat Solution\\Talabat.Repository\\obj\\",
+        "outputPath": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 05\\Assignments\\Talabat Solution\\Talabat.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\c.city\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 04\\Assignments\\Talabat Solution\\Talabat.Core\\Talabat.Core.csproj": {
-                "projectPath": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 04\\Assignments\\Talabat Solution\\Talabat.Core\\Talabat.Core.csproj"
+              "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 05\\Assignments\\Talabat Solution\\Talabat.Core\\Talabat.Core.csproj": {
+                "projectPath": "E:\\Route\\ASP .Net Route\\08 ASP.NET Core Web APIs\\Session 05\\Assignments\\Talabat Solution\\Talabat.Core\\Talabat.Core.csproj"
               }
             }
           }
