@@ -3,7 +3,7 @@ trigger:
 
 pool:
   name: Default
-  demands:: 'agent.name -equals VW_BSAEED'
+  demands: 'agent.name -equals VW_BSAEED'
 
 variables:
   buildConfiguration: 'Release'
@@ -27,7 +27,7 @@ steps:
 
 
 - script: |
-    dotnet publish "$(apiProjectPath)/Talabat.Apis.csproj" --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)
+    dotnet publish "Api Projects/Talabat Solution/Talabat.Apis/Talabat.Apis.csproj" --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)
   displayName: 'Publish API Project'
 
 - task: PublishBuildArtifacts@1
