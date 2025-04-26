@@ -27,7 +27,7 @@ steps:
 
 
 - script: |
-    dotnet publish "Api Projects/Talabat Solution/Talabat.Apis/Talabat.Apis.csproj" --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)
+    dotnet publish "Api Projects/Talabat Solution/Talabat.Apis/Talabat.Apis.csproj" --configuration $(buildConfiguration) --output "$(Build.ArtifactStagingDirectory)"
   displayName: 'Publish API Project'
 
 - task: PublishBuildArtifacts@1
