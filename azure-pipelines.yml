@@ -1,0 +1,36 @@
+trigger:
+- master 
+
+pool:
+  vmImage: 'windows-latest'
+
+variables:
+  buildConfiguration: 'Release'
+
+steps:
+- task: UseDotNet@2
+  inputs:
+    packageType: 'sdk'
+    version: '6.0.0' 
+
+- script: |
+    dotnet restore
+  displayName: 'Restore dependencies'
+
+- script: |
+    dotnet build --configuration $(buildConfiguration)
+  displayName: 'Build project'
+
+- script: |
+    dotnet test --configuration $(buildConfiguration) --no-build --verbosity normal
+  displayName: 'Run tests'
+
+- script: |
+    dotnet publish --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)
+  displayName: 'Publish project'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
