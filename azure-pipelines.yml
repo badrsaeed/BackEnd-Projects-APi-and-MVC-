@@ -2,7 +2,8 @@ trigger:
 - master 
 
 pool:
-  vmImage: 'windows-latest'
+  name: Default
+  demands:: 'agent.name -equals VW_BSAEED'
 
 variables:
   buildConfiguration: 'Release'
