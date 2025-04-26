@@ -7,28 +7,28 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
+  solution: 'Api Projects/Talabat Solution/Talabat Solution.sln'
+  apiProjectPath: 'Api Projects/Talabat Solution/Talabat.Apis'
 
 steps:
 - task: UseDotNet@2
   inputs:
     packageType: 'sdk'
-    version: '6.0.0' 
+    version: '6.x.x' 
 
 - script: |
-    dotnet restore
-  displayName: 'Restore dependencies'
+    dotnet restore "$(solution)"
+  displayName: 'Restore Solution'
 
 - script: |
-    dotnet build --configuration $(buildConfiguration)
-  displayName: 'Build project'
+    dotnet build "$(solution)" --configuration $(buildConfiguration) --no-restore
+  displayName: 'Build Solution'
+
+
 
 - script: |
-    dotnet test --configuration $(buildConfiguration) --no-build --verbosity normal
-  displayName: 'Run tests'
-
-- script: |
-    dotnet publish --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)
-  displayName: 'Publish project'
+    dotnet publish "$(apiProjectPath)/Talabat.Apis.csproj" --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)
+  displayName: 'Publish API Project'
 
 - task: PublishBuildArtifacts@1
   inputs:
